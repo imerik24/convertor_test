@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1500859414348" stop="1500859475791" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>ThirdConverterTest</name>
+    <title>Проверка смены валюты</title>
+    <description type="text">Проверяет смену валюты на экране после выбора соответсвующей в выпадающем списке</description>
+    <test-cases>
+        <test-case start="1500859414350" stop="1500859426289" status="passed">
+            <name>trueCurrencyNameChange[0]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Erapk"/>
+                <label name="thread" value="18076@Erapk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500859426290" stop="1500859438988" status="passed">
+            <name>trueCurrencyNameChange[1]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Erapk"/>
+                <label name="thread" value="18076@Erapk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500859438989" stop="1500859450348" status="passed">
+            <name>trueCurrencyNameChange[2]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Erapk"/>
+                <label name="thread" value="18076@Erapk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500859450349" stop="1500859463083" status="passed">
+            <name>trueCurrencyNameChange[3]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Erapk"/>
+                <label name="thread" value="18076@Erapk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500859463084" stop="1500859475784" status="passed">
+            <name>trueCurrencyNameChange[4]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Erapk"/>
+                <label name="thread" value="18076@Erapk.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,76 @@
+{
+  "hash" : "e7105c43ada45c9f6e0006854ef1a1d95249231d",
+  "plugins" : {
+    "total" : {
+      "statistic" : {
+        "total" : 16,
+        "passed" : 16,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "time" : {
+        "start" : 1500859269470,
+        "stop" : 1500859475784,
+        "duration" : 206314
+      }
+    },
+    "defects" : {
+      "totalCount" : 0,
+      "items" : [ ]
+    },
+    "xunit" : {
+      "totalCount" : 3,
+      "items" : [ {
+        "uid" : "c14a18b891312832",
+        "title" : "Проверка ввода поля суммы",
+        "statistic" : {
+          "total" : 6,
+          "passed" : 6,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "d7d59093807ccfd7",
+        "title" : "Проверка конвертирования суммы",
+        "statistic" : {
+          "total" : 5,
+          "passed" : 5,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "d8c32b5acdc4b1af",
+        "title" : "Проверка смены валюты",
+        "statistic" : {
+          "total" : 5,
+          "passed" : 5,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      } ]
+    },
+    "behaviors" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "title" : "Without feature",
+        "statistic" : {
+          "total" : 16,
+          "passed" : 16,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      } ]
+    },
+    "environment" : [ ]
+  }
+}

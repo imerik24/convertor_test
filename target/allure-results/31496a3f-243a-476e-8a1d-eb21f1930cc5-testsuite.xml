@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1500859269429" stop="1500859475899" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>FirstConverterTest</name>
+    <title>Проверка ввода поля суммы</title>
+    <description type="text">Проверяет поле суммы на правильность введенных значений</description>
+    <test-cases>
+        <test-case start="1500859269470" stop="1500859283002" status="passed">
+            <name>positiveTest[0]</name>
+            <title>Позитивный тест</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Erapk"/>
+                <label name="thread" value="18076@Erapk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500859283029" stop="1500859294608" status="passed">
+            <name>negativeTest[0]</name>
+            <title>Негативный тест</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Erapk"/>
+                <label name="thread" value="18076@Erapk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500859294609" stop="1500859303790" status="passed">
+            <name>positiveTest[1]</name>
+            <title>Позитивный тест</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Erapk"/>
+                <label name="thread" value="18076@Erapk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500859303793" stop="1500859319925" status="passed">
+            <name>negativeTest[1]</name>
+            <title>Негативный тест</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Erapk"/>
+                <label name="thread" value="18076@Erapk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500859319926" stop="1500859332853" status="passed">
+            <name>positiveTest[2]</name>
+            <title>Позитивный тест</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Erapk"/>
+                <label name="thread" value="18076@Erapk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500859332855" stop="1500859342855" status="passed">
+            <name>negativeTest[2]</name>
+            <title>Негативный тест</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Erapk"/>
+                <label name="thread" value="18076@Erapk.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,202 @@
+{
+  "features" : [ {
+    "title" : "Without feature",
+    "statistic" : {
+      "total" : 16,
+      "passed" : 16,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "stories" : [ {
+      "uid" : "a426368c88cdcea6",
+      "title" : "Without story",
+      "statistic" : {
+        "total" : 16,
+        "passed" : 16,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "2782674b141ed84f",
+        "name" : "trueConvetingTest[0]",
+        "title" : "True conveting test [0]",
+        "time" : {
+          "start" : 1500859342864,
+          "stop" : 1500859356258,
+          "duration" : 13394
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "84604fcae0d8b0a6",
+        "name" : "trueConvetingTest[1]",
+        "title" : "True conveting test [1]",
+        "time" : {
+          "start" : 1500859356259,
+          "stop" : 1500859370519,
+          "duration" : 14260
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "c8619b50937d142e",
+        "name" : "trueConvetingTest[2]",
+        "title" : "True conveting test [2]",
+        "time" : {
+          "start" : 1500859370525,
+          "stop" : 1500859384669,
+          "duration" : 14144
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "f00303968f775505",
+        "name" : "trueConvetingTest[3]",
+        "title" : "True conveting test [3]",
+        "time" : {
+          "start" : 1500859384670,
+          "stop" : 1500859399462,
+          "duration" : 14792
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "2faceb3e1c81d8d7",
+        "name" : "trueConvetingTest[4]",
+        "title" : "True conveting test [4]",
+        "time" : {
+          "start" : 1500859399463,
+          "stop" : 1500859414346,
+          "duration" : 14883
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "acd73a9f9cae6489",
+        "name" : "positiveTest[0]",
+        "title" : "Позитивный тест",
+        "time" : {
+          "start" : 1500859269470,
+          "stop" : 1500859283002,
+          "duration" : 13532
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "fcb6d39cdc622a23",
+        "name" : "negativeTest[0]",
+        "title" : "Негативный тест",
+        "time" : {
+          "start" : 1500859283029,
+          "stop" : 1500859294608,
+          "duration" : 11579
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "5a9edb71fb547f85",
+        "name" : "positiveTest[1]",
+        "title" : "Позитивный тест",
+        "time" : {
+          "start" : 1500859294609,
+          "stop" : 1500859303790,
+          "duration" : 9181
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "74ac6723c0ea5f28",
+        "name" : "negativeTest[1]",
+        "title" : "Негативный тест",
+        "time" : {
+          "start" : 1500859303793,
+          "stop" : 1500859319925,
+          "duration" : 16132
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "a0c9b1d3fccac670",
+        "name" : "positiveTest[2]",
+        "title" : "Позитивный тест",
+        "time" : {
+          "start" : 1500859319926,
+          "stop" : 1500859332853,
+          "duration" : 12927
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "edd247acbfc5ac8d",
+        "name" : "negativeTest[2]",
+        "title" : "Негативный тест",
+        "time" : {
+          "start" : 1500859332855,
+          "stop" : 1500859342855,
+          "duration" : 10000
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "cce7bf9abe3a35ee",
+        "name" : "trueCurrencyNameChange[0]",
+        "title" : "True currency name change [0]",
+        "time" : {
+          "start" : 1500859414350,
+          "stop" : 1500859426289,
+          "duration" : 11939
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "c1c67ea593fe759e",
+        "name" : "trueCurrencyNameChange[1]",
+        "title" : "True currency name change [1]",
+        "time" : {
+          "start" : 1500859426290,
+          "stop" : 1500859438988,
+          "duration" : 12698
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "2e9bbe5a0eb225e3",
+        "name" : "trueCurrencyNameChange[2]",
+        "title" : "True currency name change [2]",
+        "time" : {
+          "start" : 1500859438989,
+          "stop" : 1500859450348,
+          "duration" : 11359
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "f381e4b155872af9",
+        "name" : "trueCurrencyNameChange[3]",
+        "title" : "True currency name change [3]",
+        "time" : {
+          "start" : 1500859450349,
+          "stop" : 1500859463083,
+          "duration" : 12734
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "ba7c4c9448c7369c",
+        "name" : "trueCurrencyNameChange[4]",
+        "title" : "True currency name change [4]",
+        "time" : {
+          "start" : 1500859463084,
+          "stop" : 1500859475784,
+          "duration" : 12700
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

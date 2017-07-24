@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1500859342857" stop="1500859475913" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>SecondConverterTest</name>
+    <title>Проверка конвертирования суммы</title>
+    <description type="text">Проверяет правильность конвертирования введенной суммы</description>
+    <test-cases>
+        <test-case start="1500859342864" stop="1500859356258" status="passed">
+            <name>trueConvetingTest[0]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Erapk"/>
+                <label name="thread" value="18076@Erapk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500859356259" stop="1500859370519" status="passed">
+            <name>trueConvetingTest[1]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Erapk"/>
+                <label name="thread" value="18076@Erapk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500859370525" stop="1500859384669" status="passed">
+            <name>trueConvetingTest[2]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Erapk"/>
+                <label name="thread" value="18076@Erapk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500859384670" stop="1500859399462" status="passed">
+            <name>trueConvetingTest[3]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Erapk"/>
+                <label name="thread" value="18076@Erapk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500859399463" stop="1500859414346" status="passed">
+            <name>trueConvetingTest[4]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Erapk"/>
+                <label name="thread" value="18076@Erapk.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

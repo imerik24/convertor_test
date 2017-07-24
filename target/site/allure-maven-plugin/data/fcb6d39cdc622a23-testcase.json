@@ -1,0 +1,50 @@
+{
+  "uid" : "fcb6d39cdc622a23",
+  "name" : "negativeTest[0]",
+  "title" : "Негативный тест",
+  "time" : {
+    "start" : 1500859283029,
+    "stop" : 1500859294608,
+    "duration" : 11579
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "Проверяет поле суммы на правильность введенных значений",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "c14a18b891312832",
+    "name" : "FirstConverterTest",
+    "title" : "Проверка ввода поля суммы"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "host",
+    "value" : "Erapk"
+  }, {
+    "name" : "suite-name",
+    "value" : "FirstConverterTest"
+  }, {
+    "name" : "suite-title",
+    "value" : "Проверка ввода поля суммы"
+  }, {
+    "name" : "thread",
+    "value" : "18076@Erapk.main(1)"
+  } ],
+  "parameters" : [ ]
+}

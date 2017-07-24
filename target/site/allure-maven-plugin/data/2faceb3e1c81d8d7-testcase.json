@@ -1,0 +1,50 @@
+{
+  "uid" : "2faceb3e1c81d8d7",
+  "name" : "trueConvetingTest[4]",
+  "title" : "True conveting test [4]",
+  "time" : {
+    "start" : 1500859399463,
+    "stop" : 1500859414346,
+    "duration" : 14883
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "Проверяет правильность конвертирования введенной суммы",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "d7d59093807ccfd7",
+    "name" : "SecondConverterTest",
+    "title" : "Проверка конвертирования суммы"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "SecondConverterTest"
+  }, {
+    "name" : "host",
+    "value" : "Erapk"
+  }, {
+    "name" : "suite-title",
+    "value" : "Проверка конвертирования суммы"
+  }, {
+    "name" : "thread",
+    "value" : "18076@Erapk.main(1)"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "f381e4b155872af9",
+  "name" : "trueCurrencyNameChange[3]",
+  "title" : "True currency name change [3]",
+  "time" : {
+    "start" : 1500859450349,
+    "stop" : 1500859463083,
+    "duration" : 12734
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "Проверяет смену валюты на экране после выбора соответсвующей в выпадающем списке",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "d8c32b5acdc4b1af",
+    "name" : "ThirdConverterTest",
+    "title" : "Проверка смены валюты"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "host",
+    "value" : "Erapk"
+  }, {
+    "name" : "suite-title",
+    "value" : "Проверка смены валюты"
+  }, {
+    "name" : "suite-name",
+    "value" : "ThirdConverterTest"
+  }, {
+    "name" : "thread",
+    "value" : "18076@Erapk.main(1)"
+  } ],
+  "parameters" : [ ]
+}
